@@ -1,5 +1,5 @@
 项目获取地址：[https://mbd.pub/o/bread/mbd-YZWZlptsag==](https://mbd.pub/o/bread/mbd-YZWZlptsag==)
-项目演示地址：[https://www.bilibili.com/video/BV13xUTBbEmn/?share_source=copy_web&vd_source=cbebe19736fd5a34699d8baa3788e19b]([https://mbd.pub/o/bread/mbd-YZWZlptsag==](https://www.bilibili.com/video/BV13xUTBbEmn/?share_source=copy_web&vd_source=cbebe19736fd5a34699d8baa3788e19b))
+项目演示地址：[https://www.bilibili.com/video/BV13xUTBbEmn/?share_source=copy_web&vd_source=cbebe19736fd5a34699d8baa3788e19b](https://www.bilibili.com/video/BV13xUTBbEmn/?share_source=copy_web&vd_source=cbebe19736fd5a34699d8baa3788e19b)
 
 本项目是一个基于WiFi的的室内定位系统（Indoor Positioning System, IPS）综合仿真平台。
 
